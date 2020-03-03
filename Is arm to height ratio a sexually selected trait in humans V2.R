@@ -3,11 +3,8 @@
 # Packages ============================================
 library(tidyverse)
 library(magrittr)
-library(stargazer)
 library(visreg)
 library(broom)
-
-setwd("C:/Users/Thoma/Google Drive/Academia/My studies/Is arm to height ratio a sexually selected trait in humans/FInal folder/V2") # copy the file path of where you put the data here.
 
 # ======================================================
 
