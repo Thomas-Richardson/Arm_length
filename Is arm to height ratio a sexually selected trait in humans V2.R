@@ -7,6 +7,7 @@ library(dplyr)
 library(magrittr)
 library(visreg)
 library(broom)
+library(purrr)
 
 # ======================================================
 
