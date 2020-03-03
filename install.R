@@ -1,4 +1,7 @@
-install.packages('tidyverse')
+install.packages('ggplot2')
+install.packages('readr')
+install.packages('dplyr')
 install.packages('magrittr')
 install.packages('visreg')
 install.packages('broom')
+install.packages('purrr')
