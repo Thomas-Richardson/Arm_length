@@ -1,7 +1,9 @@
 # Is arm length a sexually selected trait in humans? Evidence from mixed martial arts
 
 # Packages ============================================
-library(tidyverse)
+library(ggplot2)
+library(readr)
+library(dplyr)
 library(magrittr)
 library(visreg)
 library(broom)
